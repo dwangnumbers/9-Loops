@@ -1,0 +1,144 @@
+{
+ "1": {
+  "cascade": [
+   [
+    "hexagon space $\\mathcal H_{2}$",
+    6
+   ],
+   [
+    "MHV final entry",
+    3
+   ],
+   [
+    "parity even",
+    3
+   ],
+   [
+    "dihedral $D_3$",
+    1
+   ],
+   [
+    "collinear limit",
+    0
+   ],
+   [
+    "origin",
+    0
+   ]
+  ],
+  "yfree_terms": 6,
+  "all_terms": 6
+ },
+ "2": {
+  "cascade": [
+   [
+    "hexagon space $\\mathcal H_{4}$",
+    26
+   ],
+   [
+    "MHV final entry",
+    11
+   ],
+   [
+    "parity even",
+    9
+   ],
+   [
+    "dihedral $D_3$",
+    3
+   ],
+   [
+    "collinear limit",
+    0
+   ],
+   [
+    "origin",
+    0
+   ]
+  ],
+  "yfree_terms": 12,
+  "all_terms": 84
+ },
+ "3": {
+  "cascade": [
+   [
+    "hexagon space $\\mathcal H_{6}$",
+    98
+   ],
+   [
+    "MHV final entry",
+    41
+   ],
+   [
+    "parity even",
+    31
+   ],
+   [
+    "dihedral $D_3$",
+    9
+   ],
+   [
+    "collinear limit",
+    1
+   ],
+   [
+    "origin",
+    0
+   ]
+  ],
+  "yfree_terms": 636,
+  "all_terms": 5034
+ },
+ "4": {
+  "cascade": [
+   [
+    "hexagon space $\\mathcal H_{8}$",
+    340
+   ],
+   [
+    "MHV final entry",
+    142
+   ],
+   [
+    "parity even",
+    102
+   ],
+   [
+    "dihedral $D_3$",
+    25
+   ],
+   [
+    "collinear limit",
+    2
+   ],
+   [
+    "origin",
+    1
+   ]
+  ],
+  "yfree_terms": 4896,
+  "all_terms": 121890
+ },
+ "E1": {
+  "a e": "-1/2",
+  "a f": "-1/2",
+  "b d": "-1/2",
+  "b f": "-1/2",
+  "c d": "-1/2",
+  "c e": "-1/2"
+ },
+ "E2_delta0": {
+  "a a a e": "1/2",
+  "a a a f": "1/2",
+  "a e e e": "1",
+  "a f f f": "1",
+  "b b b d": "1/2",
+  "b b b f": "1/2",
+  "b d d d": "1",
+  "b f f f": "1",
+  "c c c d": "1/2",
+  "c c c e": "1/2",
+  "c d d d": "1",
+  "c e e e": "1"
+ }
+}

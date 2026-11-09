@@ -1,0 +1,206 @@
+{
+ "1": [
+  [
+   "ansatz in hexagon space",
+   6
+  ],
+  [
+   "MHV final entry",
+   3
+  ],
+  [
+   "parity",
+   3
+  ],
+  [
+   "dihedral symmetry",
+   1
+  ],
+  [
+   "collinear",
+   0
+  ],
+  [
+   "origin",
+   0
+  ],
+  [
+   "FF collinear",
+   0
+  ],
+  [
+   "Euclidean MRK",
+   0
+  ]
+ ],
+ "2": [
+  [
+   "ansatz in hexagon space",
+   26
+  ],
+  [
+   "MHV final entry",
+   11
+  ],
+  [
+   "parity",
+   9
+  ],
+  [
+   "dihedral symmetry",
+   3
+  ],
+  [
+   "collinear",
+   0
+  ],
+  [
+   "origin",
+   0
+  ],
+  [
+   "FF collinear",
+   0
+  ],
+  [
+   "Euclidean MRK",
+   0
+  ]
+ ],
+ "3": [
+  [
+   "ansatz in hexagon space",
+   98
+  ],
+  [
+   "MHV final entry",
+   41
+  ],
+  [
+   "parity",
+   31
+  ],
+  [
+   "dihedral symmetry",
+   9
+  ],
+  [
+   "collinear",
+   1
+  ],
+  [
+   "origin",
+   0
+  ],
+  [
+   "FF collinear",
+   0
+  ],
+  [
+   "Euclidean MRK",
+   0
+  ]
+ ],
+ "4": [
+  [
+   "ansatz in hexagon space",
+   340
+  ],
+  [
+   "MHV final entry",
+   142
+  ],
+  [
+   "parity",
+   102
+  ],
+  [
+   "dihedral symmetry",
+   25
+  ],
+  [
+   "collinear",
+   2
+  ],
+  [
+   "origin",
+   1
+  ],
+  [
+   "FF collinear",
+   1
+  ],
+  [
+   "Euclidean MRK",
+   1
+  ]
+ ],
+ "5": [
+  [
+   "ansatz in hexagon space",
+   1085
+  ],
+  [
+   "MHV final entry",
+   446
+  ],
+  [
+   "parity",
+   311
+  ],
+  [
+   "dihedral symmetry",
+   71
+  ],
+  [
+   "collinear",
+   6
+  ],
+  [
+   "origin",
+   4
+  ],
+  [
+   "FF collinear",
+   4
+  ],
+  [
+   "Euclidean MRK",
+   4
+  ]
+ ],
+ "6": [
+  [
+   "ansatz in hexagon space",
+   3224
+  ],
+  [
+   "MHV final entry",
+   1292
+  ],
+  [
+   "parity",
+   885
+  ],
+  [
+   "dihedral symmetry",
+   197
+  ],
+  [
+   "collinear",
+   14
+  ],
+  [
+   "origin",
+   11
+  ],
+  [
+   "FF collinear",
+   11
+  ],
+  [
+   "Euclidean MRK",
+   11
+  ]
+ ]
+}

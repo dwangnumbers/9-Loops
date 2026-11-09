@@ -1,0 +1,37 @@
+== checks 4
+L=1: cascade [6, 3, 3, 1, 0, 0], y-free terms 6, all terms 6  (1.2s)
+L=2: cascade [26, 11, 9, 3, 0, 0], y-free terms 12, all terms 84  (1.2s)
+L=3: cascade [98, 41, 31, 9, 1, 0], y-free terms 636, all terms 5034  (1.3s)
+L=4: cascade [340, 142, 102, 25, 2, 1], y-free terms 4896, all terms 121890  (8.5s)
+E^(1) symbol: {'a e': '-1/2', 'a f': '-1/2', 'b d': '-1/2', 'b f': '-1/2', 'c d': '-1/2', 'c e': '-1/2'}
+E^(2)|Delta=0 matches 1/2 aaae + aeee + dihedral: True (12 terms)
+== mrk_sll
+SLL check  L=2: True   L=3: True
+SLL equations at L=4: 0
+== fix_by_count
+t = 0 -> 4896
+generic t -> y-free terms = 11208
+t values giving exactly 11208: []  of 25 candidates
+== dfe
+L=3: span of double final entries = 14 (published dim W_2 = 21)
+free directions at L=4 after collinear+origin: 1
+L=4 spans: particular 17  free direction 15
+== pairs
+dimension of the pair space in the last two slots of H_8: 40
+pairs that never occur: [(0, 1), (0, 2), (0, 3), (1, 0), (1, 2), (1, 4), (2, 0), (2, 1), (2, 5), (3, 0), (4, 1), (5, 2)]
+== fillin
+system (1269, 1017) nnz 29783 density 0.023
+natural order            rank 735  kernel 282  peak nnz 73,147  final nnz 10,003  (0.4s)
+random order             rank 735  kernel 282  peak nnz 197,449  final nnz 30,836  (0.9s)
+sparsest columns first   rank 735  kernel 282  peak nnz 108,281  final nnz 10,672  (0.4s)
+== zfunc
+even functions vanishing on Delta=0: 1
+MHV final entry (E^a=E^b=E^c=0): True
+cyc: invariant
+flip: invariant
+collinear limit sees it: False
+origin limit sees it: True
+
+real	4m53.143s
+user	4m47.094s
+sys	0m4.777s
